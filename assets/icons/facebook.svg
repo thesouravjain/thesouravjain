@@ -1,0 +1,11 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" class="feather feather-facebook" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#9A97F3" fill="none">
+ <g>
+  <title>Layer 1</title>
+  <path stroke="null" id="svg_1" d="m38.90473,5.00002l-7.5844,0a12.64067,9.99999 0 0 0 -12.64067,9.99999l0,5.99999l-7.5844,0l0,7.99999l7.5844,0l0,15.99998l10.11254,0l0,-15.99998l7.5844,0l2.52814,-7.99999l-10.11254,0l0,-5.99999a2.52814,2 0 0 1 2.52814,-2l7.5844,0l0,-7.99999z" filter="url(#svg_1_blur)"/>
+ </g>
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+  </filter>
+ </defs>
+</svg>

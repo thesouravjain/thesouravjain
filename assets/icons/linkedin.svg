@@ -1,0 +1,11 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" class="feather feather-linkedin" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#9A97F3" fill="none">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_4">
+   <path stroke="null" id="svg_1" d="m34.7,18.36842a12.3,11.36842 0 0 1 12.3,11.36842l0,13.26316l-8.2,0l0,-13.26316a4.1,3.78947 0 0 0 -4.1,-3.78947a4.1,3.78947 0 0 0 -4.1,3.78947l0,13.26316l-8.2,0l0,-13.26316a12.3,11.36842 0 0 1 12.3,-11.36842z"/>
+   <rect stroke="null" id="svg_2" height="22.73684" width="8.2" y="20.26316" x="6"/>
+   <circle stroke="null" id="svg_3" r="3.78947" cy="10.78947" cx="10.1"/>
+  </g>
+ </g>
+</svg>

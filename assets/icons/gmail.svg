@@ -1,0 +1,10 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="#9A97F3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_5">
+   <path d="m7.4,13l35.2,0c2.42,0 4.4,1.8 4.4,4l0,24c0,2.2 -1.98,4 -4.4,4l-35.2,0c-2.42,0 -4.4,-1.8 -4.4,-4l0,-24c0,-2.2 1.98,-4 4.4,-4z" id="svg_1" stroke="null"/>
+   <polyline stroke="null" points="46,20.5 25,35.5 4,20.5 " id="svg_2"/>
+  </g>
+ </g>
+
+</svg>
