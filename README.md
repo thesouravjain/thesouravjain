@@ -52,11 +52,11 @@ Hi, I'm Sourav — a **software engineer** building some real stuff through code
 
 ## I worked on... 💻
 
-JavaScript . Java . Python 
+JavaScript • Java • Python 
 
-Angular . NodeJS . MongoDB . ExpessJS 
+Angular • NodeJS • MongoDB • ExpessJS 
 
-ServiceNow Orchestration . Microservices . REST API
+ServiceNow Orchestration • Microservices • REST API
 
 <!-- section - job details -->
 
