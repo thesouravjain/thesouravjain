@@ -80,6 +80,8 @@ ServiceNow Orchestration • Microservices • REST API
 
 ## On the Job... 💯
 
+> Senior Software Engineer - [**Newgen Software**](https://newgensoft.com/)  ⭐⭐
+
 > Software Engineer - [**Cognizant**](https://www.cognizant.com/)  ⭐
 
 > MEAN Stack Developer Intern - [**Zenways.io**](https://www.zenways.io/)
